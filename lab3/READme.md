@@ -10,5 +10,4 @@
 
 - Запрашиваем ip адрес у dhpc для client1 и client2. Пинг от client1 к client2, и наоборот. А также пинги от клиентов к верхнему роутеру (router2):
 
-<img src="images/ping-1.png" width="400">
-<img src="images/ping-2.png" width="400">
+<img src="images/ping-1.png" height="400"> <img src="images/ping-2.png" height="400">
